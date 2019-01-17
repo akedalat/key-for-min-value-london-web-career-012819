@@ -10,7 +10,6 @@ name_hash.collect do |name, value|
       lowest_name = name
     end
   end
-    return name
+    return lowest_name
 
-end
 end
